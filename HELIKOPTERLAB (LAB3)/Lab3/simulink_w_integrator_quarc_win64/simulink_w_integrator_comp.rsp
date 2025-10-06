@@ -1,0 +1,8 @@
+-I"C:\Users\mathskas\Downloads\HELIKOPTERLAB (LAB2)\Lab3"
+-I"C:\Users\mathskas\Downloads\HELIKOPTERLAB (LAB2)\Lab3\simulink_w_integrator_quarc_win64"
+-I"C:\Program Files\MATLAB\R2020b\extern\include"
+-I"C:\Program Files\MATLAB\R2020b\simulink\include"
+-I"C:\Program Files\MATLAB\R2020b\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2020b\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\Quanser\QUARC\blocks\communications"
+-I"C:\Program Files\Quanser\QUARC\include"
