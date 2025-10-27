@@ -1,0 +1,1 @@
+test = load("C:\Users\mathskas\Documents\HELIKOPTERLAB (LAB3.5)\Lab4\lab4_Q_0.mat")

@@ -1,0 +1,2 @@
+#include <winuser.rh>
+1 RT_MANIFEST "simulink_wo_integrator.auto.manifest"
